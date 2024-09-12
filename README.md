@@ -46,5 +46,54 @@ The dataset consists of 3,224 images belonging to 4 classes. Ensure that the ima
    git clone https://github.com/yourusername/repo-name.git
    cd repo-name
 
+2. **Install the required dependencies:**
+
+   ```bash
+   pip install tensorflow opencv-python matplotlib
+
+2. **Run the code to train the model:**
+
+   ```bash
+   pip install tensorflow opencv-python matplotlib
+
+Ensure you have the dataset folder named data in your working directory.
+
+## Model Architecture
+
+The CNN model has the following architecture:
+
+Convolutional layers with ReLU activation and Max Pooling.
+Flatten layer to convert 2D features to 1D.
+Dense layers with Dropout to prevent overfitting.
+Softmax activation for multiclass classification.
+
+## Training
+
+The model is trained with 70% of the data, validated with 20%, and tested with the remaining 10%.
+The data is normalized by scaling pixel values to a range of 0-1.
+
+## Results
+Display your model's accuracy, loss graphs, and any other relevant metrics.
+Include visualizations of sample predictions, confusion matrices, or other evaluation metrics.
+
+## Usage
+
+1. To train the model, execute:
+   ```bash
+   python train.py
+2. Update the paths in the code if your dataset directory differs.
+3. For testing the model, use:
+
+## Contributing
+Contributions are welcome! Please follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Commit your changes (git commit -m 'Add new feature').
+Push to the branch (git push origin feature-branch).
+Open a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ![TU](https://github.com/user-attachments/assets/d851d70f-4eb8-4a06-8ae9-ee0a272f901a)
