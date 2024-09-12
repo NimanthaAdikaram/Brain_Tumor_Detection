@@ -1,4 +1,4 @@
-# Deep Learning Image Classification Project
+# Deep Learning Brain Tumor Detection Model
 
 This project demonstrates a deep learning pipeline for image classification using TensorFlow, OpenCV, and Matplotlib. The model is trained on a dataset of images, using a Convolutional Neural Network (CNN) to classify images into one of four classes.
 
