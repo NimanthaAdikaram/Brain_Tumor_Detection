@@ -43,7 +43,7 @@ The dataset consists of 3,224 images belonging to 4 classes. Ensure that the ima
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/NimanthaAdikaram/Brain_Tumor_Detection
    cd repo-name
 
 2. **Install the required dependencies:**
@@ -88,10 +88,10 @@ Include visualizations of sample predictions, confusion matrices, or other evalu
 Contributions are welcome! Please follow these steps:
 
 Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
+1. Create a new branch (git checkout -b feature-branch).
+2. Commit your changes (git commit -m 'Add new feature').
+3. Push to the branch (git push origin feature-branch).
+4. Open a pull request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
