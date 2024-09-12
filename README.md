@@ -74,7 +74,7 @@ Include visualizations of sample predictions, confusion matrices, or other evalu
 
 ## Usage
 
-1. train the model
+1. Train the model
 2. Update the paths in the code if your dataset directory differs.
 3. Testing the model
 
@@ -91,6 +91,6 @@ Fork the repository.
 This project is licensed under the MIT License - see the LICENSE file for details.
 MIT License
 
-Copyright (c) 2025 Nimantha Adikaram
+Copyright (c) 2024 Nimantha Adikaram
 
 ![TU](https://github.com/user-attachments/assets/d851d70f-4eb8-4a06-8ae9-ee0a272f901a)
