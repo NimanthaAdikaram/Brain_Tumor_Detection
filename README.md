@@ -52,10 +52,6 @@ The dataset consists of 3,224 images belonging to 4 classes. Ensure that the ima
    pip install tensorflow opencv-python matplotlib
 
 2. **Run the code to train the model:**
-
-   ```bash
-   pip install tensorflow opencv-python matplotlib
-
 Ensure you have the dataset folder named data in your working directory.
 
 ## Model Architecture
@@ -95,5 +91,9 @@ Fork the repository.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+Just copy and paste this directly into your README file!
 
 ![TU](https://github.com/user-attachments/assets/d851d70f-4eb8-4a06-8ae9-ee0a272f901a)
