@@ -1,7 +1,5 @@
 # Deep Learning Image Classification Project
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Deep+Learning+Image+Classification)
-
 This project demonstrates a deep learning pipeline for image classification using TensorFlow, OpenCV, and Matplotlib. The model is trained on a dataset of images, using a Convolutional Neural Network (CNN) to classify images into one of four classes.
 
 ## Table of Contents
