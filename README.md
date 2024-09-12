@@ -36,7 +36,15 @@ Make sure you have the following dependencies installed:
 
 ## Dataset
 
-The dataset consists of 3,224 images belonging to 4 classes. Ensure that the images are organized in a folder structure like this:
+The dataset consists of 3,224 images belonging to 4 classes. Ensure that the images are organized in a folder structure.
+
+## Setup and Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/repo-name.git
+   cd repo-name
 
 
 ![TU](https://github.com/user-attachments/assets/d851d70f-4eb8-4a06-8ae9-ee0a272f901a)
