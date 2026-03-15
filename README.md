@@ -44,7 +44,7 @@ The dataset consists of 3,224 images belonging to 4 classes. Ensure that the ima
 
    ```bash
    git clone https://github.com/NimanthaAdikaram/Brain_Tumor_Detection
-   cd repo-name
+   cd Brain_Tumor_Detection
 
 2. **Install the required dependencies:**
 
@@ -67,10 +67,6 @@ Softmax activation for multiclass classification.
 
 The model is trained with 70% of the data, validated with 20%, and tested with the remaining 10%.
 The data is normalized by scaling pixel values to a range of 0-1.
-
-## Results
-Display your model's accuracy, loss graphs, and any other relevant metrics.
-Include visualizations of sample predictions, confusion matrices, or other evaluation metrics.
 
 ## Usage
 
