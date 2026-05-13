@@ -1,5 +1,5 @@
 # Brain Tumor Image Classification using CNN
-![Sample Prediction Result](assets/result.png)
+![Sample Prediction Result](TU.jpg)
 
 This project builds a Convolutional Neural Network (CNN) model using TensorFlow/Keras to classify brain MRI images into four categories:
 
